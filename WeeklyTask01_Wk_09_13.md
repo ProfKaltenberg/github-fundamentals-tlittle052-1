@@ -14,7 +14,7 @@ I wasn't sure if it this task should be a separate file or part of the pull requ
 
 2. Helpful Resource
 
-I found this link on GitHub helpful [link to GitHub MarkDown Helo!](https://guides.github.com/features/mastering-markdown/)
+I found this link on GitHub helpful [link to GitHub MarkDown](https://guides.github.com/features/mastering-markdown/)
 
 3. Questions
 * Is there a good directory of Markdown formatting guides?
