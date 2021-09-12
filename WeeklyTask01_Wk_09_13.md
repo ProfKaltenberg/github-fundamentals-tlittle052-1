@@ -10,7 +10,7 @@ It took sometime figuring out how to create a pull request. It was also difficul
 
 After getting adjusted to the space, I made some edits to the final name, comments, etc.
 
-I wasn't sure if it this task should be a seperate file or part of the pull request -- I did both.
+I wasn't sure if it this task should be a separate file or part of the pull request -- I did both.
 
 2. Helpful Resource
 
